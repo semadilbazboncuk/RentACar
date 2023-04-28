@@ -4,4 +4,4 @@ Bazı kodlar yazdım.
 yeni kodlar ekledim
 bazı çalışnmalar yaptım. 
   
-  
+ localde conflict olursa 
